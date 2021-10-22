@@ -1,0 +1,8 @@
+{
+  "name": "@types/country-flag-icons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kjob-net/-types-country-flag-icons.git",
+  "author": "전윤민 <cordelia273@naver.com>",
+  "license": "MIT"
+}
